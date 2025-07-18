@@ -1,0 +1,3 @@
+Hallo :)
+Ein kleines Projekt, dass mir die aktuellen Abfahrtszeiten einer ausgewählten Haltestelle anzeigen soll.
+More information coming soon hehe...
